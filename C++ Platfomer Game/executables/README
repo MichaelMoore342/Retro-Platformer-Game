@@ -1,0 +1,6 @@
+This directory must contain:
+1) A single game executable and all other files that are necessary for it to run.
+2) A single test executable and all other files that are necessary for it to run.
+
+Create sub-directories as needed.
+
